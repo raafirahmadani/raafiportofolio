@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2dc86073.css",
+    "main.js": "/static/js/main.5bb23eb7.js",
+    "static/media/aku.png": "/static/media/aku.f94c7d1381f739dca8c8.png",
+    "static/media/aku-about.jpg": "/static/media/aku-about.ade27f48c8bafc9ad05a.jpg",
+    "static/media/CV.pdf": "/static/media/CV.d66049f4f2bd464dc148.pdf",
+    "index.html": "/index.html",
+    "main.2dc86073.css.map": "/static/css/main.2dc86073.css.map",
+    "main.5bb23eb7.js.map": "/static/js/main.5bb23eb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dc86073.css",
+    "static/js/main.5bb23eb7.js"
+  ]
+}
